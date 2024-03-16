@@ -2,6 +2,8 @@
 
 Aya Asset Packer ... for آپ!
 
+## Usage
+
 `$ ./AAP <private_key_pem_file_path> <resource_folder_path> <output_aap_file_path>`
 
 Requirements of resource folder:
