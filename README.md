@@ -1,6 +1,6 @@
 # AAP
 
-Aya Asset Packer ... for YOU! آپ
+Aya Asset Packer ... for آپ!
 
 `$ ./AAP <private_key_pem_file_path> <resource_folder_path> <output_aap_file_path>`
 
