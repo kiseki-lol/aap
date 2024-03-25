@@ -17,7 +17,7 @@
     <PackageReference Include="BouncyCastle.Cryptography" Version="2.3.0" />
     <PackageReference Include="MessagePack" Version="2.5.140" />
     <PackageReference Include="SharpCompress" Version="0.36.0" />
-    <PackageReference Include="ZstdSharp.Port" Version="0.7.5" />
+    <PackageReference Include="ZstdSharp.Port" Version="0.7.6" />
   </ItemGroup>
   
 </Project>
